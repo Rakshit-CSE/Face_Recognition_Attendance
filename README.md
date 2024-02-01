@@ -2,7 +2,7 @@
 Developed an automated attendance system using facial recognition, enabling attendance marking through a phone on the same network.
 
 The process of using a phone camera with Python:
-1. First, install the OpenCV library in Python: pip install opencv-python.
+1.First, install the OpenCV library in Python: pip install opencv-python.
    
 2.Download and install the IP Webcam application on your smartphones.
 

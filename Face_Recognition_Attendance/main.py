@@ -9,10 +9,10 @@ import numpy as np
 import csv
 from datetime import datetime
 
-# video_capture = cv2.VideoCapture(0)
+video_capture = cv2.VideoCapture(0)
 
-url = "http://172.20.10.3:8080/video"
-video_capture = cv2.VideoCapture(url)
+# url = "http://172.20.10.3:8080/video"
+# video_capture = cv2.VideoCapture(url)
 
 #Load Known facesq
 rakshit_image = face_recognition.load_image_file("faces/rk.png")
